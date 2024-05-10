@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+}
+
+form {
+    box-shadow: 0.7px 0.5px 5px 3px rgb(0, 62, 76);
+    border-radius: 2px;
+    background-color: rgba(250, 249, 255, 0.349);
+}
+
+
+.asdfa {
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    position: fixed;
+
+}
+
+
+.affe {
+    height: 100vh;
+    width: 100%;
+}
+
+
+.form-control {
+    background-color: rgb(250, 250, 250);
+    box-shadow: inset 0.3px 0.3px 4px 0.4px black;
+}
+
+.form-control:focus {
+    background-color: rgb(250, 250, 250);
+    box-shadow: inset 0.3px 0.3px 4px 0.4px black;
+}
+
+
+.form-group label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.gfh {
+    text-align:start;
+    width: 100%;
+    margin-left: 9px;
+}
+
+.input-group-text {
+    width: 100%;
+}
+
+.U {
+    color: aliceblue;
+    margin-left: 4px;
+    
+}
+
+.asdsa {
+    height: 40px;
+    width: 90%;
+    background-color: rgb(30, 188, 255);
+    border-radius: 10px;
+    border: none;
+}
+.submitb {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
